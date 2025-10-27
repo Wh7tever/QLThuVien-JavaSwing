@@ -56,10 +56,8 @@ Dự án này được xây dựng bằng Apache NetBeans IDE 27.
 ### Các bước chạy
 
 1.  **Clone Repository** (hoặc tải về file ZIP và giải nén):
-    ```bash
-    git clone [https://github.com/](https://github.com/)[username-cua-ban]/QLThuVien.git
-    cd QLThuVien
-    ```
+    https://github.com/Wh7tever/QLThuVien-JavaSwing
+  
 2.  **Thiết lập Cơ sở dữ liệu PostgreSQL:**
     * Đảm bảo PostgreSQL Server đang chạy.
     * Sử dụng một công cụ quản trị CSDL (như pgAdmin, DBeaver) để tạo một database mới tên là `qltv_db`.
